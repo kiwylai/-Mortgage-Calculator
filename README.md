@@ -16,10 +16,5 @@ This React app serves as a home loan calculator, allowing users to input variabl
 
 
 
-HTML, CSS, JavaScript,
-React,
-UI/UX Design with Material-UI,
-State Management with React Hooks,
-Responsive Web Design
 
 
